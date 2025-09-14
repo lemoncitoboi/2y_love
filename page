@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Felices 2 Años</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+    <style>
+        /*
+         * --- NOTA IMPORTANTE PARA GOOGLE SITES ---
+         * Este código está optimizado para ser insertado en un bloque de "Insertar código".
+         * Si al publicarlo ves que el contenido se corta, el problema es el tamaño del bloque en Google Sites, no el código.
+         * SOLUCIÓN: En el editor de Google Sites, simplemente haz clic en el bloque de código que insertaste y arrastra el punto azul de la parte inferior hacia abajo hasta que todo el contenido sea visible.
+        */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f5f5f7; /* Un gris muy claro, estilo Apple */
+            overflow-y: auto; /* Permite scroll si el contenido es más alto que el contenedor */
+        }
+        .text-gradient {
+            background: linear-gradient(135deg, #ff6b6b, #f06595, #cc5de8, #845ef7);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-fill-color: transparent;
+        }
+        .card {
+            background-color: #ffffff;
+            border-radius: 24px;
+            box-shadow: 0 20px 40px -15px rgba(0, 0, 0, 0.08);
+            transform: scale(1);
+            transition: all 0.3s ease-in-out;
+        }
+        .image-placeholder {
+            background-color: #e9ecef;
+        }
+    </style>
+</head>
+<body class="flex items-center justify-center min-h-screen p-4 sm:p-6 lg:p-8">
+
+    <main class="card w-full max-w-4xl p-8 sm:p-12 lg:p-16">
+        
+        <!-- Encabezado Principal -->
+        <header class="text-center mb-12">
+            <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-gradient">
+                Felices dos años, mi amor.
+            </h1>
+        </header>
+
+        <!-- Cuerpo del Mensaje -->
+        <article class="text-base sm:text-lg text-gray-700 leading-relaxed space-y-6">
+            <p>
+                Si tuviera que explicar lo que han sido estos 730 días contigo, la única idea que le hace justicia es pensar en mi vida como un disco duro y en ti como la llegada de un nuevo sistema operativo. Sé que Daft Punk no es lo tuyo, pero su concepto de <em>Random Access Memories</em> define perfectamente cómo me siento. Antes de ti, tenía un montón de "archivos" predefinidos sobre cómo funcionaba el amor, sobre lo que creía que merecía, que honestamente era mucho menos de lo que ya recibía. Y llegaste tú, a romper cada molde, a desfragmentar mis miedos y a instalar una nueva forma de entenderlo todo.
+            </p>
+            <p>
+                En este tiempo, hemos grabado memorias increíbles, de esas de alta definición que se guardan en la carpeta principal: nuestro primer glamping, Villa de Leyva, el viaje a Guaduas con tu familia, esa semana entera en Santa Marta, Villeta con la mía, el concierto de Twenty One Pilots y el de Morat, la visita a la tumba de mi abuelo, las minas de sal... Esos son nuestros momentos clave, los grandes archivos que definen nuestra historia.
+            </p>
+            <p>
+                Pero lo que de verdad llena mi "RAM" del día a día, lo que mi corazón accede a cada instante para sentirse en casa, son los pequeños fragmentos, las instantáneas que se quedan grabadas para siempre. Recuerdo girar la cabeza y verte trabajando tan juiciosa junto a la puerta. Recuerdo la emoción de esperarte en el Bancolombia, tratando de adivinar tu outfit. Recuerdo nuestras caminatas interminables en la 94, y la felicidad pura que sentí cuando te ascendieron a Formadora, porque nadie se lo merecía más. Recuerdo correr por todos lados buscando tus regalos de cumpleaños, la primera vez que me quedé a dormir en tu casa, la noche que caminamos desde Bulevar hasta el OXXO, y cada una de nuestras visitas a Crepes. Recuerdo hacerte el desayuno, esperarte en la portería, la adrenalina de que te subieras a mi mismo bus y la primera vez que te dije "te amo". Pero hay un recuerdo que es casi sagrado para mí: ese beso en el marco de la puerta de tu casa, con la luz de la ventana iluminándolo todo. En ese preciso instante pensé: "disfruta esto, porque este es uno de esos momentos que querrás recordar justo antes de morir". Y es que contigo siento que no estoy simplemente dejando que el tiempo pase; estoy viviendo de verdad.
+            </p>
+
+            <!-- Sección para las Imágenes Recreadas con AI -->
+            <section class="py-8">
+                <h2 class="text-2xl font-bold text-gray-800 text-center mb-8">Nuestros Futuros Recuerdos</h2>
+                <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+                    
+                    <!-- IMAGEN 1: Reemplaza la URL en 'src' -->
+                    <div class="w-full h-64 sm:h-80 rounded-2xl overflow-hidden shadow-lg">
+                        <img src="https://placehold.co/600x800/ff6b6b/ffffff?text=Par%C3%ADs" 
+                             alt="Imagen de un futuro viaje a París" 
+                             class="w-full h-full object-cover">
+                    </div>
+                    
+                    <!-- IMAGEN 2: Reemplaza la URL en 'src' -->
+                    <div class="w-full h-64 sm:h-80 rounded-2xl overflow-hidden shadow-lg">
+                        <img src="https://placehold.co/600x800/845ef7/ffffff?text=España" 
+                             alt="Imagen de un futuro viaje a España" 
+                             class="w-full h-full object-cover">
+                    </div>
+
+                    <!-- IMAGEN 3: Reemplaza la URL en 'src' -->
+                    <div class="w-full h-64 sm:h-80 rounded-2xl overflow-hidden shadow-lg">
+                        <img src="https://placehold.co/600x800/51cf66/ffffff?text=Mediterráneo" 
+                             alt="Imagen de un futuro viaje al Mediterráneo" 
+                             class="w-full h-full object-cover">
+                    </div>
+                </div>
+                <p class="text-center text-gray-500 mt-4 text-sm">Sé que ahora son solo un montaje, pero quiero que sepas que así las veo: como una vista previa de todo lo que quiero que cumplamos.</p>
+            </section>
+
+            <p>
+                Sé que últimamente las cosas han sido un poco distintas. Siento que por dentro estoy en una metamorfosis, un cambio profundo que me está costando, un poco como el nuevo álbum de Twenty One Pilots. Lamento mucho si he dejado de hacer cosas, si mi energía parece menor. Es algo que me preocupa, pero es porque mi mente no para de pensar en nuestro futuro, en el dinero y en construir algo sólido para los dos. Quiero darte las gracias, mi amorcito, por estar siempre ahí, por tu paciencia y por tu apoyo incondicional mientras atravieso esto. Eres mi complemento perfecto; sé que somos seres totalmente funcionales por separado, pero qué increíble equipo hacemos juntos.
+             </p>
+             <p>
+                Hoy me siento feliz, agradecido, contento, dichoso y todos los sinónimos que se puedan usar. Y parafraseando esa canción, a veces me cuesta creer que soy yo a quien elegiste, pero por ti, te juro que quiero ser formidable.
+            </p>
+        </article>
+        
+        <!-- Cierre -->
+        <footer class="text-center mt-12">
+            <p class="text-xl font-bold text-gray-800">Podría faltar todo en esta vida, menos tú, mi amorcito.</p>
+            <p class="text-2xl font-bold text-gradient mt-2">Te amo infinito.</p>
+        </footer>
+
+    </main>
+
+</body>
+</html>
+
